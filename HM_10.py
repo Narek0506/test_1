@@ -34,17 +34,17 @@
 # print(set1)
 
 
-# # Ex 4
-# tuple_1 = (11, "55", 54, "abc", 90, 102, "asdasd", "qwerty")
+# Ex 4
+tuple_1 = (11, "55", 54, "abc", 90, 102, "asdasd", "qwerty")
 
-# # Ex 7
-# list_1 = [12, 41, 5, 8, 0, 11, -7, 9, -1]
-# list_2 = [36, -12, 0, 18, -1, 12, 45, 21]
-#
-# set_list_1 = set(list_1)
-# set_list_2 = set(list_2)
-#
-# print(tuple(set_list_1 & set_list_2))
+# Ex 7
+list_1 = [12, 41, 5, 8, 0, 11, -7, 9, -1]
+list_2 = [36, -12, 0, 18, -1, 12, 45, 21]
+
+set_list_1 = set(list_1)
+set_list_2 = set(list_2)
+
+print(tuple(set_list_1 & set_list_2))
 
 # # Ex 6
 # list_1 = [(1, 2, 6), (2, 3, -6), (3, 4), (2, -6, 2, 8), 6, 2]
@@ -55,3 +55,5 @@
 #     for j in list_1[i]:
 #         x += j
 # print(x)
+
+print('Hello World')
