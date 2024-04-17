@@ -56,6 +56,5 @@ print(tuple(set_list_1 & set_list_2))
 #         x += j
 # print(x)
 
-print('Hello World')
-
-print('Welcome to my first Python')
+print(1, 2, 3)
+print("RGB")
